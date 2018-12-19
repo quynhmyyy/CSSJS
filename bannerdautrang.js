@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://hausneo.info/' target='_blank'><img src='https://4.bp.blogspot.com/-Rfc3k8Uvj8M/XBexARduO-I/AAAAAAAAEqg/AmHHiMJtDeI9pbC8oT5AR_gRqhV5gv5jwCLcBGAs/s320/hotlinechudautu.png' width='500px'/><br/>Bán căn hộ Hausbelo quận 9</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://hausneo.info/' target='_blank'><img src='https://4.bp.blogspot.com/-Rfc3k8Uvj8M/XBexARduO-I/AAAAAAAAEqg/AmHHiMJtDeI9pbC8oT5AR_gRqhV5gv5jwCLcBGAs/s320/hotlinechudautu.png' width='500px'/><br/>Bán căn hộ Hausbelo quận 9</a>. Hotline: 093 2627 494. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
